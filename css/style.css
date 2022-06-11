@@ -983,7 +983,7 @@ ul.menu {
 	:: 22.0 Breadcrumb
 -------------------------------*/
 .breadcrumb {
-    background: url(breadcrumb-bg.jpg);
+    background: url(../breadcrumb-bg.jpg);
     background-position: top;
     background-repeat: no-repeat;
 }
